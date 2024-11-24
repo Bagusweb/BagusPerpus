@@ -1,5 +1,5 @@
 # Sistem-Perpustakaan-Sekolah
-Nama Project ini adalah : CuyPerpus
+Nama Project ini adalah : BagusPerpus
 
 CuyPerpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
 
@@ -21,4 +21,4 @@ Fitur fitur yang terdapat didalam aplikasi ini :
   - membayar denda
 
 
-Created by Mangandaralam Sakti - Student At SMKN 1 Jakarta
+Created by Bagus Erlangga
